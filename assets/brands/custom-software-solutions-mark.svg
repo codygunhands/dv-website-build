@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 84" role="img" aria-label="Custom Software Solutions">
+  <text
+    x="200"
+    y="34"
+    text-anchor="middle"
+    font-family="system-ui, -apple-system, Segoe UI, sans-serif"
+    font-size="32"
+    font-weight="700"
+    letter-spacing="0.08em"
+    fill="#ffffff"
+  >CUSTOM SOFTWARE</text>
+  <text
+    x="200"
+    y="66"
+    text-anchor="middle"
+    font-family="system-ui, -apple-system, Segoe UI, sans-serif"
+    font-size="24"
+    font-weight="600"
+    letter-spacing="0.22em"
+    fill="#ffffff"
+    opacity="0.88"
+  >SOLUTIONS</text>
+</svg>

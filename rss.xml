@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Double Vision USA - Field Notes</title>
+    <link>https://doublevision.company/blog/</link>
+    <description>Guides for small shops, contractors, and operators.</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jun 2026 08:23:24 GMT</lastBuildDate>
+    
+    <item>
+      <title><![CDATA[CNC speeds and feeds calculator (SFM, RPM, IPM): formulas + ShopCalc]]></title>
+      <link>https://doublevision.company/blog/speeds-feeds-guide/</link>
+      <guid>https://doublevision.company/blog/speeds-feeds-guide/</guid>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Feeds and speeds reference for mill and lathe: surface speed to RPM, chip load to feed rate, MRR, and starting SFM ranges. Same math as the ShopCalc app, free in the browser.]]></description>
+      <category>Manufacturing</category>
+    </item>
+    <item>
+      <title><![CDATA[Tap drill chart and how to read thread sizes (UNC, UNF, M-series)]]></title>
+      <link>https://doublevision.company/blog/tap-drill-chart/</link>
+      <guid>https://doublevision.company/blog/tap-drill-chart/</guid>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[75% and 60% thread engagement charts in inch and metric, the formula behind them, and when to drop to 60% on stainless and titanium.]]></description>
+      <category>Manufacturing</category>
+    </item>
+    <item>
+      <title><![CDATA[NEC wire sizing for branch circuits (ampacity + voltage drop)]]></title>
+      <link>https://doublevision.company/blog/nec-wire-sizing-guide/</link>
+      <guid>https://doublevision.company/blog/nec-wire-sizing-guide/</guid>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Pick the right copper or aluminum wire size with NEC 310.16, derate for ambient and conductor count, and check voltage drop on long runs.]]></description>
+      <category>Electrical</category>
+    </item>
+    <item>
+      <title><![CDATA[MIG welding amperage and wire feed cheat sheet (carbon steel)]]></title>
+      <link>https://doublevision.company/blog/mig-amperage-cheat-sheet/</link>
+      <guid>https://doublevision.company/blog/mig-amperage-cheat-sheet/</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Starting points for amperage, voltage, wire feed speed, and gas selection by material thickness - plus how to read the puddle when you're outside the chart.]]></description>
+      <category>Welding</category>
+    </item>
+    <item>
+      <title><![CDATA[How much concrete do I need? Slab, footing, and pier yardage]]></title>
+      <link>https://doublevision.company/blog/concrete-yardage-guide/</link>
+      <guid>https://doublevision.company/blog/concrete-yardage-guide/</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[The three formulas, overage rules of thumb, mix design and rebar references, and how to avoid the most common short-load and over-order mistakes.]]></description>
+      <category>Construction</category>
+    </item>
+    <item>
+      <title><![CDATA[Deck joist span and spacing (16" vs 12" oc, plus the Simpson SDWS that replaced 3/8" lag bolts)]]></title>
+      <link>https://doublevision.company/blog/deck-joist-span-and-spacing/</link>
+      <guid>https://doublevision.company/blog/deck-joist-span-and-spacing/</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[AWC DCA 6 + IRC R507 spans for SPF and SYP, when composite forces 12" oc, the modern structural-screw replacement for ledger lags, and the joist-tape that adds a decade of life for $30.]]></description>
+      <category>Construction</category>
+    </item>
+    <item>
+      <title><![CDATA[How much drywall do I need? Sheets, screws, mud, and the paper-vs-mesh rule pros never break]]></title>
+      <link>https://doublevision.company/blog/drywall-sheets-and-mud-calculator/</link>
+      <guid>https://doublevision.company/blog/drywall-sheets-and-mud-calculator/</guid>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Sheet-count formula, screw spacing, mud-and-tape estimating, and the brand-specific picks (USG green-lid vs blue-lid, Easy Sand 90, FibaFuse) - plus the IRC R302.6 5/8" Type X spec for garage ceilings.]]></description>
+      <category>Construction</category>
+    </item>
+    <item>
+      <title><![CDATA[How much paint do I need? The math, the brand picks pros buy, and the Floetrol trick]]></title>
+      <link>https://doublevision.company/blog/how-much-paint-do-i-need/</link>
+      <guid>https://doublevision.company/blog/how-much-paint-do-i-need/</guid>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Coverage formula with realistic numbers, the one-coat tier (Aura, Emerald, Marquee), the primer decision tree, and the additive + brush picks (Floetrol, Wooster Shortcut, Purdy XL Glide) that decide whether the wall looks DIY or pro.]]></description>
+      <category>Construction</category>
+    </item>
+    <item>
+      <title><![CDATA[Schluter Ditra vs cement backer board for tile floors - when each one wins]]></title>
+      <link>https://doublevision.company/blog/schluter-ditra-vs-cement-board/</link>
+      <guid>https://doublevision.company/blog/schluter-ditra-vs-cement-board/</guid>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[How uncoupling membrane and rigid backer solve different problems, the substrate decision tree, ANSI A108.5 95% mortar coverage, the modified-vs-unmodified thinset rule, and where backer board still beats Ditra.]]></description>
+      <category>Construction</category>
+    </item>
+    <item>
+      <title><![CDATA[Drywall anchors and the 25-pound rule (plastic, toggle, SnapToggle, or just hit a stud)]]></title>
+      <link>https://doublevision.company/blog/drywall-anchors-25-pound-rule/</link>
+      <guid>https://doublevision.company/blog/drywall-anchors-25-pound-rule/</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Real-world load ratings for plastic, threaded, molly, and toggle anchors. When to use what, the SnapToggle install step everyone gets wrong, and why a TV mount never goes into drywall alone.]]></description>
+      <category>Construction</category>
+    </item>
+    <item>
+      <title><![CDATA[What speeds and feeds for a 1/4" 4-flute carbide endmill in 4140 steel?]]></title>
+      <link>https://doublevision.company/blog/speeds-feeds-1-4-carbide-4140/</link>
+      <guid>https://doublevision.company/blog/speeds-feeds-1-4-carbide-4140/</guid>
+      <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Starting recipe: 280 SFM, 4,280 RPM, ~26 IPM, 0.0015 in/tooth - plus the SFM ranges for annealed/prehard/hardened 4140, the slot/profile/trochoidal adjustments, and what the spindle is telling you when it complains.]]></description>
+      <category>Manufacturing</category>
+    </item>
+    <item>
+      <title><![CDATA[Tap drill for 1/2-13 UNC at 75% thread engagement (with the math)]]></title>
+      <link>https://doublevision.company/blog/tap-drill-1-2-13-unc-75-percent/</link>
+      <guid>https://doublevision.company/blog/tap-drill-1-2-13-unc-75-percent/</guid>
+      <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Calculated tap drill is 0.4251". Closest commercial drill is 27/64" (~78% engagement). Drop to 7/16" for 60% on stainless and titanium. Full chart, formula, and the cutting-vs-roll-tap drill rule.]]></description>
+      <category>Manufacturing</category>
+    </item>
+    <item>
+      <title><![CDATA[How to write G-code to face a 2.5" Ø part on a CNC lathe]]></title>
+      <link>https://doublevision.company/blog/gcode-facing-2-5-inch-part/</link>
+      <guid>https://doublevision.company/blog/gcode-facing-2-5-inch-part/</guid>
+      <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Complete paste-able program for facing 0.030" off a 2.5" diameter bar in 4140 prehard, plus the math behind G50/G96, feed/speed, and the safe-retract sequence that keeps the insert away from the chuck.]]></description>
+      <category>Manufacturing</category>
+    </item>
+    <item>
+      <title><![CDATA[How many tiles for a 12 × 14 ft bathroom?]]></title>
+      <link>https://doublevision.company/blog/how-many-tiles-12x14-bathroom/</link>
+      <guid>https://doublevision.company/blog/how-many-tiles-12x14-bathroom/</guid>
+      <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[168 sq ft floor + 10% waste = 185 sq ft to order. In 12×24 tile that's 93 tiles or 12 boxes. Plus the tile-setter waste-factor rules, grout coverage, bullnose math, and why dye-lot mismatch ruins the floor.]]></description>
+      <category>Construction</category>
+    </item>
+    <item>
+      <title><![CDATA[How many bags of concrete for a 4-inch slab 20 × 15 ft?]]></title>
+      <link>https://doublevision.company/blog/concrete-bags-4-inch-slab-20x15/</link>
+      <guid>https://doublevision.company/blog/concrete-bags-4-inch-slab-20x15/</guid>
+      <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[100 ft³ / 3.7 cu yd. That's ~225 60-lb bags or ~167 80-lb bags - but at this size you should call a ready-mix truck. Full math, bag-vs-truck threshold, and rebar/mesh recommendations.]]></description>
+      <category>Construction</category>
+    </item>
+    <item>
+      <title><![CDATA[How many sheets of drywall for a 12 × 14 ft room with a 9-foot ceiling?]]></title>
+      <link>https://doublevision.company/blog/drywall-sheets-12x14-room-9-foot-ceiling/</link>
+      <guid>https://doublevision.company/blog/drywall-sheets-12x14-room-9-foot-ceiling/</guid>
+      <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[600 sq ft net area. 17 sheets of 4×9 (best fit), 19 of 4×8, 13 of 4×12. Why 9 ft ceilings change the math, plus screws, tape, mud, and the hang sequence that kills horizontal seams.]]></description>
+      <category>Construction</category>
+    </item>
+    <item>
+      <title><![CDATA[What amperage for 1/4" mild steel MIG with .035 ER70S-6?]]></title>
+      <link>https://doublevision.company/blog/mig-amperage-1-4-mild-steel-035/</link>
+      <guid>https://doublevision.company/blog/mig-amperage-1-4-mild-steel-035/</guid>
+      <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[165–185 A at 19–21 V, ~290 IPM wire feed, 14–18 IPM travel, C25 gas at 35–45 CFH. The math behind those numbers, the puddle-reading symptoms, and when to switch from short-circuit to spray.]]></description>
+      <category>Welding</category>
+    </item>
+    <item>
+      <title><![CDATA[Heat input limit for SA-516 Gr 70 root pass]]></title>
+      <link>https://doublevision.company/blog/heat-input-sa-516-gr-70-root-pass/</link>
+      <guid>https://doublevision.company/blog/heat-input-sa-516-gr-70-root-pass/</guid>
+      <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[GTAW root: 10–25 kJ/in. SMAW root: 12–35 kJ/in. The real limit is the qualified WPS - ASME Section IX QW-409.1 makes heat input an essential variable. How HI affects HAZ toughness on notch-critical pressure-vessel steel.]]></description>
+      <category>Welding</category>
+    </item>
+    <item>
+      <title><![CDATA[TIG tungsten size for 180 A on stainless steel]]></title>
+      <link>https://doublevision.company/blog/tig-tungsten-size-180a-stainless/</link>
+      <guid>https://doublevision.company/blog/tig-tungsten-size-180a-stainless/</guid>
+      <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[3/32" (2.4 mm) tungsten, 2% lanthanated or ceriated (skip the thoriated). Sharp 30° point with 0.005" flat. Plus the cup size, gas flow, filler rod, and color-check guide for clean stainless TIG.]]></description>
+      <category>Welding</category>
+    </item>
+    <item>
+      <title><![CDATA[What wire size for 40 A continuous, 180 ft, 240 V single-phase?]]></title>
+      <link>https://doublevision.company/blog/wire-size-40a-180-feet-240v/</link>
+      <guid>https://doublevision.company/blog/wire-size-40a-180-feet-240v/</guid>
+      <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Ampacity says #8 Cu, voltage drop forces #6 Cu. Aluminum equivalent: #2. Full NEC 310.16 + 210.19 calculation, the EV-charger case (where this comes up most), and the conduit-fill check.]]></description>
+      <category>Electrical</category>
+    </item>
+    <item>
+      <title><![CDATA[Conduit fill for 4× #10 AWG + 1× #6 in 3/4" EMT]]></title>
+      <link>https://doublevision.company/blog/conduit-fill-10-and-6-awg-thhn-3-4-emt/</link>
+      <guid>https://doublevision.company/blog/conduit-fill-10-and-6-awg-thhn-3-4-emt/</guid>
+      <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Fill is 0.135 sq in in a conduit with 0.213 sq in (40%) capacity - 25.3% fill, comfortably legal under NEC Chapter 9. Plus the full table, alternative conduit types, and the 360° bend rule.]]></description>
+      <category>Electrical</category>
+    </item>
+    <item>
+      <title><![CDATA[Voltage drop and NEC 210.19(A) explained]]></title>
+      <link>https://doublevision.company/blog/voltage-drop-nec-210-19-explained/</link>
+      <guid>https://doublevision.company/blog/voltage-drop-nec-210-19-explained/</guid>
+      <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[The 3% / 5% rule is in an Informational Note - recommendation, not enforceable code. Where it stops being optional, the formula, the math at the most-common run lengths, and how loads degrade with VD.]]></description>
+      <category>Electrical</category>
+    </item>
+    <item>
+      <title><![CDATA[Write and send a professional quote (fast)]]></title>
+      <link>https://doublevision.company/blog/how-to-send-a-professional-quote/</link>
+      <guid>https://doublevision.company/blog/how-to-send-a-professional-quote/</guid>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[A practical structure plus a copy/paste template you can ship today. Get approvals faster without sounding stiff.]]></description>
+      <category>Operations</category>
+    </item>
+    <item>
+      <title><![CDATA[Bill of sale guide (template included)]]></title>
+      <link>https://doublevision.company/blog/bill-of-sale-guide/</link>
+      <guid>https://doublevision.company/blog/bill-of-sale-guide/</guid>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[What to include, when to use it, and a clean template for high-ticket items, equipment, and Marketplace deals.]]></description>
+      <category>Operations</category>
+    </item>
+    <item>
+      <title><![CDATA[Facebook Marketplace bill of sale (free) + safest way to get paid]]></title>
+      <link>https://doublevision.company/blog/sell-safely-on-facebook-marketplace/</link>
+      <guid>https://doublevision.company/blog/sell-safely-on-facebook-marketplace/</guid>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[Bill of sale template for Marketplace, how to sell safely in person, safest payment (cash, Zelle, ACH), scam red flags, and a clean handover checklist for tools, vehicles, and higher-ticket items.]]></description>
+      <category>Operations</category>
+    </item>
+  </channel>
+</rss>

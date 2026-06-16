@@ -1,0 +1,50 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "company.doublevision.shopcalcpro",
+      "sha256_cert_fingerprints": [
+        "B7:40:69:6C:3B:88:AB:E8:9D:D9:24:8C:50:A6:A5:E2:61:1E:D1:E4:2E:CC:80:4B:8E:42:83:75:CA:EA:99:22"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "company.doublevision.weldercalcpro",
+      "sha256_cert_fingerprints": [
+        "D3:E8:87:1B:39:8A:79:AC:E7:BD:CA:96:35:24:EE:9A:6F:51:80:C9:8B:D6:72:A3:1E:80:63:56:35:E4:1F:E0"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "company.doublevision.buildercalcpro",
+      "sha256_cert_fingerprints": [
+        "0C:D0:03:5A:73:6F:2F:A3:9E:8C:F8:6B:AD:76:C6:52:2A:E5:AA:B3:E1:A4:9B:43:AE:D5:89:37:DB:57:23:6F"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "company.doublevision.electriciancalcpro",
+      "sha256_cert_fingerprints": [
+        "1E:21:B9:47:E0:45:B7:A5:03:C3:E9:22:92:8E:CE:BB:8F:23:00:31:78:4D:E7:E4:C1:F3:BC:9B:4B:8B:AD:15"
+      ]
+    }
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["G389LK9FQK.company.doublevision.shopcalcpro"],
+        "components": [
+          { "/": "/shopcalc", "comment": "ShopCalc app landing" },
+          { "/": "/shopcalc/*", "comment": "Any path under /shopcalc" },
+          { "/": "/blog/speeds-feeds-guide", "comment": "Speeds & feeds guide → ShopCalc" },
+          { "/": "/blog/speeds-feeds-guide/*" },
+          { "/": "/blog/tap-drill-chart", "comment": "Tap drill chart → ShopCalc" },
+          { "/": "/blog/tap-drill-chart/*" },
+          { "/": "/r/shopcalc/*", "comment": "Smart-link/UTM tracking landing pages" }
+        ]
+      },
+      {
+        "appIDs": ["G389LK9FQK.company.doublevision.weldercalcpro"],
+        "components": [
+          { "/": "/weldercalc" },
+          { "/": "/weldercalc/*" },
+          { "/": "/blog/mig-amperage-cheat-sheet", "comment": "MIG amperage guide → WelderCalc" },
+          { "/": "/blog/mig-amperage-cheat-sheet/*" },
+          { "/": "/r/weldercalc/*" }
+        ]
+      },
+      {
+        "appIDs": ["G389LK9FQK.company.doublevision.buildercalcpro"],
+        "components": [
+          { "/": "/buildercalc" },
+          { "/": "/buildercalc/*" },
+          { "/": "/blog/concrete-yardage-guide", "comment": "Concrete yardage → BuilderCalc" },
+          { "/": "/blog/concrete-yardage-guide/*" },
+          { "/": "/blog/deck-joist-span-and-spacing" },
+          { "/": "/blog/deck-joist-span-and-spacing/*" },
+          { "/": "/blog/drywall-sheets-and-mud-calculator" },
+          { "/": "/blog/drywall-sheets-and-mud-calculator/*" },
+          { "/": "/blog/how-much-paint-do-i-need" },
+          { "/": "/blog/how-much-paint-do-i-need/*" },
+          { "/": "/blog/schluter-ditra-vs-cement-board" },
+          { "/": "/blog/schluter-ditra-vs-cement-board/*" },
+          { "/": "/blog/drywall-anchors-25-pound-rule" },
+          { "/": "/blog/drywall-anchors-25-pound-rule/*" },
+          { "/": "/r/buildercalc/*" }
+        ]
+      },
+      {
+        "appIDs": ["G389LK9FQK.company.doublevision.electriciancalcpro"],
+        "components": [
+          { "/": "/electriciancalc" },
+          { "/": "/electriciancalc/*" },
+          { "/": "/blog/nec-wire-sizing-guide", "comment": "NEC wire sizing → ElectricianCalc" },
+          { "/": "/blog/nec-wire-sizing-guide/*" },
+          { "/": "/r/electriciancalc/*" }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "G389LK9FQK.company.doublevision.shopcalcpro",
+      "G389LK9FQK.company.doublevision.weldercalcpro",
+      "G389LK9FQK.company.doublevision.buildercalcpro",
+      "G389LK9FQK.company.doublevision.electriciancalcpro"
+    ]
+  }
+}

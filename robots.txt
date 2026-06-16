@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /super-admin/
+Disallow: /r/
+
+Host: https://doublevision.company
+Sitemap: https://doublevision.company/sitemap.xml
